@@ -1,5 +1,7 @@
 # DarkNote
 
+![DarkNote Banner](darknotebanner.png)
+
 Send encrypted messages to any Solana wallet. Messages are encrypted client-side and self-destruct after reading.
 
 ## What is this?
